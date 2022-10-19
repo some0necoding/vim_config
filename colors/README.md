@@ -6,4 +6,4 @@ To load one of these colorschemes by default, add the following line in your `~/
 ```
 colorscheme {colorscheme_name}
 ```
-for custom.vim colorscheme_name = custom
+for custom.vim file colorscheme_name = custom
