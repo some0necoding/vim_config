@@ -1,4 +1,4 @@
-" Name:         Custom
+" Name:           custom
 
 set background=dark
 
