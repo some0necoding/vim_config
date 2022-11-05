@@ -18,6 +18,3 @@ filetype plugin on
 syntax enable
 
 colorscheme custom
-
-" Overwriting ~/.vim/plugin/typos.vim
-map -c <Plug>TyposAdd;
